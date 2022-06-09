@@ -1,2 +1,2 @@
 # curso-softex-recife
- Curso de Desenvolvimento Web da Softex Recife
+ Repositório para o Curso de Desenvolvimento Web da Softex Recife
