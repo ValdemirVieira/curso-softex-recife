@@ -3,7 +3,7 @@
 ## Lógica de Programação
 
 caracter nome_aluno;
-real nota1 = 0, nota2 = 0, media = nota1 + nota2 / 2;
+real nota1 = 0, nota2 = 0, media = (nota1 + nota2) / 2;
 inteiro faltas = 0;
 
 se (media < 7 ou faltas > 3) {
