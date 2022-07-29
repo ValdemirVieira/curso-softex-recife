@@ -39,9 +39,9 @@ class Livro {
     }
 }
 
-let livro1 = new Livro('JavaScript Básico', 'José da Silva', 300)
+let livro1 = new Livro('JavaScript Básico', 'João da Silva', 300)
 let liro2 = new Livro('JavaScript Intermediário', 'Maria dos santos', 500)
-let livro3 = new Livro('JavaScript Avançado', 'João Maria', 800)
+let livro3 = new Livro('JavaScript Avançado', 'João e Maria', 800)
 
 livro1.folhear(81)
 console.log(livro1)
